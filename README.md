@@ -19,7 +19,7 @@ This is a simple **Netflix login page clone** built using **HTML** and **CSS**. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//netflix-login-clone.git
+   https://github.com/KDGIT005/NETFLIX-.git
 ````
 
 2. Navigate to the project folder and open `index.html` in your browser.
@@ -35,7 +35,7 @@ This is a simple **Netflix login page clone** built using **HTML** and **CSS**. 
 
 ## 🙋‍♂️ Author
 
-* [Your Name](https://github.com/your-username)
+* [Kuldeep Dhangad](https://github.com/KDGIT005)
 
 ## 📜 License
 
